@@ -1,8 +1,13 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Tech With Ace
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`GreenComett (AI&Ml Developer/Mobile and Robotics Software Engineer/Tech Youtuber '23/Gamer/Maybe a Physicist)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a Nigerian Robotics software engineering specialized mostly in Self driving Systems and sensor fusion.I am also a flutter mobile(Android and IOS) developer and content creator building my version of the digital world one step at a time. 
+
+I will be creating content on Youtube starting January 1st 2023. Check my Youtube Profile down below.
+All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+
+All of my video contents are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]".
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
