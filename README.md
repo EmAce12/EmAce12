@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-### 👨‍💻 I'm [Arjun Sinha!]()
+### 👨‍💻 I'm [Ademola Yusuf!]()
 ### 🌟 Welcome to my Dreamscape!
 
 <a href="https://twitter.com/drunkonbytes">
@@ -33,10 +33,9 @@
 -->
 - 🌱 I’m currently learning Full stack Development using Flutter and firebase.
 - 👯 I’m looking to collaborate on Flutter Projects.
-- 🤔 I’m looking for help with finding relevant open source proects to contribute to.
+- 🤔 I’m looking for help with finding relevant open source projects to contribute to.
 - 💬 Ask me about Android, Flutter, Python, Firebase, node, ROS and TensorFlow!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arjun-sinha-366a79192/), [Mail](mailto:arjunsinha2122000@gmail.com)
-- 😄 Pronouns: he/his/him
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryuukenshi.ryuukenshi)  
 
 <br />
