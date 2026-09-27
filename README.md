@@ -2,10 +2,6 @@
 ### 👨‍💻 I'm **Ademola Yusuf (Em’Ace)**  
 ### 🚀 Flutter Engineer | Backend Developer | Startup Founder
 
-Welcome to my GitHub — where products meet performance.
-
----
-
 <a href="https://twitter.com/EmAce12">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
